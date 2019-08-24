@@ -1,2 +1,5 @@
-# lloyd.324.js
-324 characterds in minified js file
+
+Requirements NodeJS
+
+npm install
+npm run test

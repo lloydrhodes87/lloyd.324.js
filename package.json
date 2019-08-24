@@ -1,0 +1,15 @@
+{
+  "name": "snap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "snapmin.min.js",
+  "scripts": {
+    "test": "mocha ./spec/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
