@@ -1,3 +1,4 @@
+324 characters on minified js file
 
 Requirements NodeJS
 
